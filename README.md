@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first coding assignment for The Odin Project. This project will be creating a basic recipes website. It will demonstrate an understanding on the basic of HTML and git workflow.
