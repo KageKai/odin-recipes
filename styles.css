@@ -1,3 +1,8 @@
 .para {
     color: hsl(38, 83%, 38%);
 }
+
+.image {
+    height: auto;
+    width: 300px;
+}
