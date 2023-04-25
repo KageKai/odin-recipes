@@ -1,8 +1,12 @@
 .para {
-    color: hsl(38, 83%, 38%);
+    color:#CC313D;
 }
 
 .image {
     height: auto;
     width: 300px;
+}
+
+.title {
+   text-align: center; 
 }
